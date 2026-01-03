@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "358640842286",
+    "project_id": "speapp-f3936",
+    "storage_bucket": "speapp-f3936.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358640842286:android:4045ec57f7ae4cad1551bf",
+        "android_client_info": {
+          "package_name": "com.example.spe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358640842286-m1qjqeao75k61s81a60sffvut493ihl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spe_app",
+            "certificate_hash": "381c32ff63abf43379d53bd3ea35898f9b3cb65c"
+          }
+        },
+        {
+          "client_id": "358640842286-lqqm4uv7ar8dnneme9mtfa2v07666upj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdhiaQZm164xlzVKf_ge2KzhiPNd8_5us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358640842286-lqqm4uv7ar8dnneme9mtfa2v07666upj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
