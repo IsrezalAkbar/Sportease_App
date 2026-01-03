@@ -36,7 +36,7 @@ Google Maps memerlukan billing account (walaupun ada free tier):
 Untuk keamanan, restrict API key Anda:
 
 1. Buka: https://console.cloud.google.com/apis/credentials
-2. Klik API key Anda: `AIzaSyD7OXgZBlTBur6ZTAu5DWW_x5OhD_n-DFE`
+2. Klik API key Anda: `API_KEY`
 3. Di "Application restrictions":
    - Pilih "Android apps"
    - Tambahkan package name: `com.example.spe_app`
