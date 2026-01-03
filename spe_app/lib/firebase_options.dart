@@ -29,7 +29,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAdhiaQZm164xlzVKf_ge2KzhiPNd8_5us',
+    apiKey: 'API_KEY',
     appId: '1:358640842286:android:4045ec57f7ae4cad1551bf',
     messagingSenderId: '358640842286',
     projectId: 'speapp-f3936',
