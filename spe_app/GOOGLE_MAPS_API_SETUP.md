@@ -27,7 +27,7 @@ flutter run --dart-define-from-file=dart_defines.txt
 ### Manual:
 
 ```bash
-flutter run --dart-define=GOOGLE_MAPS_API_KEY=AIzaSyAdhiaQZm164xlzVKf_ge2KzhiPNd8_5us
+flutter run --dart-define=GOOGLE_MAPS_API_KEY=
 ```
 
 ## Build Release:
